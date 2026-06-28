@@ -1,5 +1,5 @@
 # 💫 About Me:
-Decision Making for Sustainable Hydrogen Energy Systems in Mobility<br>Consequential LCA frameworks and integrated TEA for green infrastructure<br>Advanced supplychain network optimization. <br>Scaling programming models to translate complex energy systems outputs into automated life cycle inventories.<br>Life Cycle Assessment (LCA, LCC, sLCA), PEFCRs, SimaPro, Brightway2<br>Alongside my research, I served as a Student Representative!
+🔭Decision Making for Sustainable Hydrogen Energy Systems in Mobility<br>👯Consequential LCA frameworks and integrated TEA for green infrastructure<br>🤝Advanced supplychain network optimization<br>🌱Scaling programming models to translate complex energy systems outputs into automated life cycle inventories<br>💬Life Cycle Assessment (LCA, LCC, sLCA), PEFCRs, SimaPro, Brightway2<br>⚡Alongside my research, I served as a Student Representative!
 
 
 ## 🌐 Socials:
